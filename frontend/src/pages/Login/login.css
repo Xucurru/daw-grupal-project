@@ -1,0 +1,37 @@
+body {
+  background: #52489C;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  font-family: "Poppins";
+  font-size: 36px;
+  color: #003A4D;
+}
+
+label {
+  font-family: "Poppins";
+  color: #003A4D;
+}
+
+.login {
+  margin-top: 150px;
+  background-color: #98e2d8;
+  border-radius: 15px;
+}
+
+.btnLogin {
+  background-color: #003A4D;
+  color: #F3F3F3;
+  border-radius: 15px;
+}
+
+/*@media screen and (max-width: 768px)
+ *  .login
+ *      width: 300px
+ *      height: 450px    
+ * @media screen and (max-width: 998px)
+ *  .login
+ *      width: 400px
+ *      height: 450px */ /*# sourceMappingURL=login.css.map */
